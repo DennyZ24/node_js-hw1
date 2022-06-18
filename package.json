@@ -1,0 +1,19 @@
+{
+  "name": "node_js-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennyZ24/node_js-hw1.git"
+  },
+  "author": "DennyZ24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennyZ24/node_js-hw1/issues"
+  },
+  "homepage": "https://github.com/DennyZ24/node_js-hw1#readme"
+}
