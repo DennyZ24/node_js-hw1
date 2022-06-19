@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/DennyZ24/node_js-hw1/issues"
   },
-  "homepage": "https://github.com/DennyZ24/node_js-hw1#readme"
+  "homepage": "https://github.com/DennyZ24/node_js-hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.5.1"
+  }
 }
